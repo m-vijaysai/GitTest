@@ -3,3 +3,5 @@ Created cr1
 changed again
 
 changed in github
+
+Chnaged to test rebase by teammate on remote repository
