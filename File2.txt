@@ -1,7 +1,11 @@
 Created cr1
 
-changed again
+changed : again
 
 changed in github
 
 Chnaged to test rebase by teammate on remote repository
+
+changed : In github
+
+change : To test rebase at local
