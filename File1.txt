@@ -7,3 +7,5 @@ changed-- Login feature
 change : Logout Feature
 
 change : Fixed bug1
+
+change : Fixed bug2
